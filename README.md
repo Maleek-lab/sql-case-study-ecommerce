@@ -54,7 +54,7 @@ Melchizedek Daniel Ya'u(Maleek)
 ## 📸 Query Results
 
 ### Customer Analysis
-![Customer Analysis](customers.png)
+![Customer Analysis](customer.png)
 
 ### Product Analysis
-![Product Analysis](products.png)
+![Product Analysis](product.png)
